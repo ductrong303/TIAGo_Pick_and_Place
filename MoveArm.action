@@ -1,8 +1,0 @@
-#goal
-geometry_msgs/PoseStamped target_pose
----
-#result
-bool res
----
-#feedback
-string fb
